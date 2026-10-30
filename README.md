@@ -5,83 +5,86 @@
   3. Replace every YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN with your own values
 -->
 
-<h1 align="center">👋 Hi, I'm Ali Sherif ☕🗄️⚙️📊🌊</h1>
-<h3 align="center">Data Engineer · ETL Architect · Lakehouse Builder · Data Governance Enthusiast</h3>
+<p align="center">
+  <img src="chem-ai-data-art.svg" alt="Chemistry 路 AI 路 Data Engineering" width="100%"/>
+</p>
+
+<h1 align="center">馃憢 Hi, I'm Ali Sherif 鈽曫煑勶笍鈿欙笍馃搳馃寠</h1>
+<h3 align="center">Data Engineer 路 ETL Architect 路 Lakehouse Builder 路 Data Governance Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Moving+data+from+A+to+B+(reliably);Turning+raw+rows+into+trusted+insights;Spark+%7C+Iceberg+%7C+Trino+%7C+Informatica;SELECT+*+FROM+coffee+WHERE+cups+%3E+3" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Moving+data+from+A+to+B+(reliably);Turning+raw+rows+into+trusted+insights;Spark+%7C+Iceberg+%7C+Trino+%7C+Informatica;SELECT+*+FROM+coffee+WHERE+cups+%3E+3](https://raw.githubusercontent.com/alisherif98/alisherif98/d38e0e36b1a10bdf0c1bfcf523402f0205df350c/chem-ai-data-art.svg)" alt="Typing SVG" />
 </p>
 
 ---
 
-### ☕ About Me
+### 鈽?About Me
 
-- ☕ Firm believer that coffee reduces pipeline latency and increases throughput (unbenchmarked, but trusted).
-- 🛠️ Builds **ETL/ELT pipelines** that run at 3 AM so nobody else has to be awake.
-- 🔍 Chases **incomplete lineage** in data catalogs like a detective chasing a missing suspect.
-- 🌊 Spends free time spinning up **Docker lakehouses** — and then debugging why MinIO won't start.
-- 🧪 Background in **computational chemistry** — so yes, I've converged both SCF cycles and DTM buffers.
+- 鈽?Firm believer that coffee reduces pipeline latency and increases throughput (unbenchmarked, but trusted).
+- 馃洜锔?Builds **ETL/ELT pipelines** that run at 3 AM so nobody else has to be awake.
+- 馃攳 Chases **incomplete lineage** in data catalogs like a detective chasing a missing suspect.
+- 馃寠 Spends free time spinning up **Docker lakehouses** 鈥?and then debugging why MinIO won't start.
+- 馃И Background in **computational chemistry** 鈥?so yes, I've converged both SCF cycles and DTM buffers.
 
 ---
 
-### 🧭 My Philosophy of Data Life
+### 馃Л My Philosophy of Data Life
 
-> *"Garbage in, garbage out."* — every data engineer, ever.
+> *"Garbage in, garbage out."* 鈥?every data engineer, ever.
 >
-> And the greatest joy is a green pipeline run, a reconciled row count, and a hot cup of coffee 😅☕💻
-
+> And the greatest joy is a green pipeline run, a reconciled row count, and a hot cup of coffee 馃槄鈽曫煉?
 ---
 
-### 🔬 What I Actually Do (a.k.a. Areas of Work)
+### 馃敩 What I Actually Do (a.k.a. Areas of Work)
 
-🏗️ **Enterprise ETL with Informatica PowerCenter**
-Designing mappings, sessions & workflows — and tuning DTM buffers until throughput stops complaining.
+馃彈锔?**Enterprise ETL with Informatica PowerCenter**
+Designing mappings, sessions & workflows 鈥?and tuning DTM buffers until throughput stops complaining.
 
-🗂️ **Data Governance & Cataloging (Informatica EDC)**
+馃梻锔?**Data Governance & Cataloging (Informatica EDC)**
 Metadata scans, data domains, profiling, custom attributes, and connection assignment for end-to-end lineage.
 
-🌊 **Open Lakehouse Architecture**
-Apache Iceberg + Nessie + Spark + Trino + Dremio + MinIO + Flink — because one engine is never enough.
+馃寠 **Open Lakehouse Architecture**
+Apache Iceberg + Nessie + Spark + Trino + Dremio + MinIO + Flink 鈥?because one engine is never enough.
 
-🔄 **Data Migration & Reconciliation**
-SQL Server → Lakehouse migrations with SQL-only validation: counts, checksums, and "why is this row NULL?" investigations.
+馃攧 **Data Migration & Reconciliation**
+SQL Server 鈫?Lakehouse migrations with SQL-only validation: counts, checksums, and "why is this row NULL?" investigations.
 
-⚡ **SQL Server Performance Tuning**
+鈿?**SQL Server Performance Tuning**
 Rewriting stored procedures to run faster with *identical* results (yes, I compared every row).
 
-🧩 **Master Data Management**
-Source → staging → golden record with AtroCore, fuzzy matching, and survivorship rules.
+馃З **Master Data Management**
+Source 鈫?staging 鈫?golden record with AtroCore, fuzzy matching, and survivorship rules.
 
 ---
 
-### 📂 Featured Projects (Real Pipelines, No Hype)
+### 馃搨 Featured Projects (Real Pipelines, No Hype)
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌊 **[lakehouse-lab](https://github.com/YOUR_USERNAME/lakehouse-lab)** | Docker-based Iceberg lakehouse playground | Iceberg · Nessie · Spark · Trino · MinIO |
-| 🔄 **[sqlserver-to-lakehouse](https://github.com/YOUR_USERNAME/sqlserver-to-lakehouse)** | End-to-end migration capstone with reconciliation & dashboards | SQL Server · Spark · Iceberg · Power BI |
-| ✅ **[migration-validation-sql](https://github.com/YOUR_USERNAME/migration-validation-sql)** | SQL-only library of data reconciliation queries | T-SQL · Trino SQL |
-| 🧱 **[adventureworks-dwh](https://github.com/YOUR_USERNAME/adventureworks-dwh)** | Star-schema DWH with product dimension (SCD) | SQL Server · Docker |
-| 🔍 **[informatica-repo-queries](https://github.com/YOUR_USERNAME/informatica-repo-queries)** | PowerCenter repository metadata queries (mapping → session → source/target) | SQL Server · PowerCenter |
+| 馃寠 **[lakehouse-lab](https://github.com/YOUR_USERNAME/lakehouse-lab)** | Docker-based Iceberg lakehouse playground | Iceberg 路 Nessie 路 Spark 路 Trino 路 MinIO |
+| 馃攧 **[sqlserver-to-lakehouse](https://github.com/YOUR_USERNAME/sqlserver-to-lakehouse)** | End-to-end migration capstone with reconciliation & dashboards | SQL Server 路 Spark 路 Iceberg 路 Power BI |
+| 鉁?**[migration-validation-sql](https://github.com/YOUR_USERNAME/migration-validation-sql)** | SQL-only library of data reconciliation queries | T-SQL 路 Trino SQL |
+| 馃П **[adventureworks-dwh](https://github.com/YOUR_USERNAME/adventureworks-dwh)** | Star-schema DWH with product dimension (SCD) | SQL Server 路 Docker |
+| 馃攳 **[informatica-repo-queries](https://github.com/YOUR_USERNAME/informatica-repo-queries)** | PowerCenter repository metadata queries (mapping 鈫?session 鈫?source/target) | SQL Server 路 PowerCenter |
 
 ---
 
-### 🔁 How I See a Pipeline
+### 馃攣 How I See a Pipeline
 
 ```mermaid
 flowchart LR
-    A[🗄️ Sources<br/>SQL Server / Oracle / Files] --> B[⚙️ Ingest<br/>Informatica / Spark]
-    B --> C[🌊 Lakehouse<br/>Iceberg on MinIO]
-    C --> D[🔎 Query<br/>Trino / Dremio]
-    D --> E[📊 Insights<br/>Power BI]
-    C -.-> F[🗂️ Governance<br/>EDC Catalog & Lineage]
+    A[馃梽锔?Sources<br/>SQL Server / Oracle / Files] --> B[鈿欙笍 Ingest<br/>Informatica / Spark]
+    B --> C[馃寠 Lakehouse<br/>Iceberg on MinIO]
+    C --> D[馃攷 Query<br/>Trino / Dremio]
+    D --> E[馃搳 Insights<br/>Power BI]
+    C -.-> F[馃梻锔?Governance<br/>EDC Catalog & Lineage]
 ```
 
 ---
 
-### 🛠️ Languages & Tools (a.k.a. Weapons of Choice)
+### 馃洜锔?Languages & Tools (a.k.a. Weapons of Choice)
 
-💡 Mostly **SQL** and **Python**, occasionally **Bash**, always **Docker**.
+馃挕 Mostly **SQL** and **Python**, occasionally **Bash**, always **Docker**.
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -101,14 +104,14 @@ flowchart LR
 
 ---
 
-### 📈 GitHub Activity (Yes, I Commit — Like a Transaction)
+### 馃搱 GitHub Activity (Yes, I Commit 鈥?Like a Transaction)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📊 Most Used Languages (Spoiler: SQL)
+### 馃搳 Most Used Languages (Spoiler: SQL)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -120,7 +123,7 @@ flowchart LR
 
 ---
 
-### 🌍 Find Me in the Wild
+### 馃實 Find Me in the Wild
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -129,4 +132,4 @@ flowchart LR
 
 ---
 
-<p align="center">⭐ Thanks for visiting — feel free to explore, fork, or <code>MERGE INTO</code> responsibly.</p>
+<p align="center">猸?Thanks for visiting 鈥?feel free to explore, fork, or <code>MERGE INTO</code> responsibly.</p>
