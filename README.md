@@ -1,90 +1,91 @@
 <!-- 
   HOW TO USE:
-  1. Create a PUBLIC repo named exactly like your GitHub username (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME)
+  1. Create a PUBLIC repo named exactly like your GitHub username (e.g. github.com/alisherif98/alisherif98)
   2. Paste this file as README.md
-  3. Replace every YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN with your own values
+  3. Replace YOUR_EMAIL, YOUR_LINKEDIN with your own values
 -->
 
 <p align="center">
-  <img src="chem-ai-data-art.svg" alt="Chemistry 路 AI 路 Data Engineering" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alisherif98/alisherif98/main/chem-ai-data-art.svg" alt="Chemistry &#xB7; AI &#xB7; Data Engineering" width="100%"/>
 </p>
 
-<h1 align="center">馃憢 Hi, I'm Ali Sherif 鈽曫煑勶笍鈿欙笍馃搳馃寠</h1>
-<h3 align="center">Data Engineer 路 ETL Architect 路 Lakehouse Builder 路 Data Governance Enthusiast</h3>
+<h1 align="center">&#x1F44B; Hi, I'm Ali Sherif &#x2615;&#x1F5C4;&#xFE0F;&#x2699;&#xFE0F;&#x1F4CA;&#x1F30A;</h1>
+<h3 align="center">Data Engineer &#xB7; ETL Architect &#xB7; Lakehouse Builder &#xB7; Data Governance Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Moving+data+from+A+to+B+(reliably);Turning+raw+rows+into+trusted+insights;Spark+%7C+Iceberg+%7C+Trino+%7C+Informatica;SELECT+*+FROM+coffee+WHERE+cups+%3E+3](https://raw.githubusercontent.com/alisherif98/alisherif98/d38e0e36b1a10bdf0c1bfcf523402f0205df350c/chem-ai-data-art.svg)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Moving+data+from+A+to+B+(reliably);Turning+raw+rows+into+trusted+insights;Spark+%7C+Iceberg+%7C+Trino+%7C+Informatica;SELECT+*+FROM+coffee+WHERE+cups+%3E+3" alt="Typing SVG" />
 </p>
 
 ---
 
-### 鈽?About Me
+### &#x2615; About Me
 
-- 鈽?Firm believer that coffee reduces pipeline latency and increases throughput (unbenchmarked, but trusted).
-- 馃洜锔?Builds **ETL/ELT pipelines** that run at 3 AM so nobody else has to be awake.
-- 馃攳 Chases **incomplete lineage** in data catalogs like a detective chasing a missing suspect.
-- 馃寠 Spends free time spinning up **Docker lakehouses** 鈥?and then debugging why MinIO won't start.
-- 馃И Background in **computational chemistry** 鈥?so yes, I've converged both SCF cycles and DTM buffers.
+- &#x2615; Firm believer that coffee reduces pipeline latency and increases throughput (unbenchmarked, but trusted).
+- &#x1F6E0;&#xFE0F; Builds **ETL/ELT pipelines** that run at 3 AM so nobody else has to be awake.
+- &#x1F50D; Chases **incomplete lineage** in data catalogs like a detective chasing a missing suspect.
+- &#x1F30A; Spends free time spinning up **Docker lakehouses** &#x2014; and then debugging why MinIO won't start.
+- &#x1F9EA; Background in **computational chemistry** &#x2014; so yes, I've converged both SCF cycles and DTM buffers.
 
 ---
 
-### 馃Л My Philosophy of Data Life
+### &#x1F9ED; My Philosophy of Data Life
 
-> *"Garbage in, garbage out."* 鈥?every data engineer, ever.
+> *"Garbage in, garbage out."* &#x2014; every data engineer, ever.
 >
-> And the greatest joy is a green pipeline run, a reconciled row count, and a hot cup of coffee 馃槄鈽曫煉?
+> And the greatest joy is a green pipeline run, a reconciled row count, and a hot cup of coffee &#x1F605;&#x2615;&#x1F4BB;
+
 ---
 
-### 馃敩 What I Actually Do (a.k.a. Areas of Work)
+### &#x1F52C; What I Actually Do (a.k.a. Areas of Work)
 
-馃彈锔?**Enterprise ETL with Informatica PowerCenter**
-Designing mappings, sessions & workflows 鈥?and tuning DTM buffers until throughput stops complaining.
+&#x1F3D7;&#xFE0F; **Enterprise ETL with Informatica PowerCenter**
+Designing mappings, sessions & workflows &#x2014; and tuning DTM buffers until throughput stops complaining.
 
-馃梻锔?**Data Governance & Cataloging (Informatica EDC)**
+&#x1F5C2;&#xFE0F; **Data Governance & Cataloging (Informatica EDC)**
 Metadata scans, data domains, profiling, custom attributes, and connection assignment for end-to-end lineage.
 
-馃寠 **Open Lakehouse Architecture**
-Apache Iceberg + Nessie + Spark + Trino + Dremio + MinIO + Flink 鈥?because one engine is never enough.
+&#x1F30A; **Open Lakehouse Architecture**
+Apache Iceberg + Nessie + Spark + Trino + Dremio + MinIO + Flink &#x2014; because one engine is never enough.
 
-馃攧 **Data Migration & Reconciliation**
-SQL Server 鈫?Lakehouse migrations with SQL-only validation: counts, checksums, and "why is this row NULL?" investigations.
+&#x1F504; **Data Migration & Reconciliation**
+SQL Server &#x2192; Lakehouse migrations with SQL-only validation: counts, checksums, and "why is this row NULL?" investigations.
 
-鈿?**SQL Server Performance Tuning**
+&#x26A1; **SQL Server Performance Tuning**
 Rewriting stored procedures to run faster with *identical* results (yes, I compared every row).
 
-馃З **Master Data Management**
-Source 鈫?staging 鈫?golden record with AtroCore, fuzzy matching, and survivorship rules.
+&#x1F9E9; **Master Data Management**
+Source &#x2192; staging &#x2192; golden record with AtroCore, fuzzy matching, and survivorship rules.
 
 ---
 
-### 馃搨 Featured Projects (Real Pipelines, No Hype)
+### &#x1F4C2; Featured Projects (Real Pipelines, No Hype)
 
 | Project | Description | Stack |
 |---|---|---|
-| 馃寠 **[lakehouse-lab](https://github.com/YOUR_USERNAME/lakehouse-lab)** | Docker-based Iceberg lakehouse playground | Iceberg 路 Nessie 路 Spark 路 Trino 路 MinIO |
-| 馃攧 **[sqlserver-to-lakehouse](https://github.com/YOUR_USERNAME/sqlserver-to-lakehouse)** | End-to-end migration capstone with reconciliation & dashboards | SQL Server 路 Spark 路 Iceberg 路 Power BI |
-| 鉁?**[migration-validation-sql](https://github.com/YOUR_USERNAME/migration-validation-sql)** | SQL-only library of data reconciliation queries | T-SQL 路 Trino SQL |
-| 馃П **[adventureworks-dwh](https://github.com/YOUR_USERNAME/adventureworks-dwh)** | Star-schema DWH with product dimension (SCD) | SQL Server 路 Docker |
-| 馃攳 **[informatica-repo-queries](https://github.com/YOUR_USERNAME/informatica-repo-queries)** | PowerCenter repository metadata queries (mapping 鈫?session 鈫?source/target) | SQL Server 路 PowerCenter |
+| &#x1F30A; **[lakehouse-lab](https://github.com/alisherif98/lakehouse-lab)** | Docker-based Iceberg lakehouse playground | Iceberg &#xB7; Nessie &#xB7; Spark &#xB7; Trino &#xB7; MinIO |
+| &#x1F504; **[sqlserver-to-lakehouse](https://github.com/alisherif98/sqlserver-to-lakehouse)** | End-to-end migration capstone with reconciliation & dashboards | SQL Server &#xB7; Spark &#xB7; Iceberg &#xB7; Power BI |
+| &#x2705; **[migration-validation-sql](https://github.com/alisherif98/migration-validation-sql)** | SQL-only library of data reconciliation queries | T-SQL &#xB7; Trino SQL |
+| &#x1F9F1; **[adventureworks-dwh](https://github.com/alisherif98/adventureworks-dwh)** | Star-schema DWH with product dimension (SCD) | SQL Server &#xB7; Docker |
+| &#x1F50D; **[informatica-repo-queries](https://github.com/alisherif98/informatica-repo-queries)** | PowerCenter repository metadata queries (mapping &#x2192; session &#x2192; source/target) | SQL Server &#xB7; PowerCenter |
 
 ---
 
-### 馃攣 How I See a Pipeline
+### &#x1F501; How I See a Pipeline
 
 ```mermaid
 flowchart LR
-    A[馃梽锔?Sources<br/>SQL Server / Oracle / Files] --> B[鈿欙笍 Ingest<br/>Informatica / Spark]
-    B --> C[馃寠 Lakehouse<br/>Iceberg on MinIO]
-    C --> D[馃攷 Query<br/>Trino / Dremio]
-    D --> E[馃搳 Insights<br/>Power BI]
-    C -.-> F[馃梻锔?Governance<br/>EDC Catalog & Lineage]
+    A[Sources<br/>SQL Server / Oracle / Files] --> B[Ingest<br/>Informatica / Spark]
+    B --> C[Lakehouse<br/>Iceberg on MinIO]
+    C --> D[Query<br/>Trino / Dremio]
+    D --> E[Insights<br/>Power BI]
+    C -.-> F[Governance<br/>EDC Catalog & Lineage]
 ```
 
 ---
 
-### 馃洜锔?Languages & Tools (a.k.a. Weapons of Choice)
+### &#x1F6E0;&#xFE0F; Languages & Tools (a.k.a. Weapons of Choice)
 
-馃挕 Mostly **SQL** and **Python**, occasionally **Bash**, always **Docker**.
+&#x1F4A1; Mostly **SQL** and **Python**, occasionally **Bash**, always **Docker**.
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -104,26 +105,26 @@ flowchart LR
 
 ---
 
-### 馃搱 GitHub Activity (Yes, I Commit 鈥?Like a Transaction)
+### &#x1F4C8; GitHub Activity (Yes, I Commit &#x2014; Like a Transaction)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alisherif98&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alisherif98&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 馃搳 Most Used Languages (Spoiler: SQL)
+### &#x1F4CA; Most Used Languages (Spoiler: SQL)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisherif98&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisherif98&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-### 馃實 Find Me in the Wild
+### &#x1F30D; Find Me in the Wild
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -132,4 +133,4 @@ flowchart LR
 
 ---
 
-<p align="center">猸?Thanks for visiting 鈥?feel free to explore, fork, or <code>MERGE INTO</code> responsibly.</p>
+<p align="center">&#x2B50; Thanks for visiting &#x2014; feel free to explore, fork, or <code>MERGE INTO</code> responsibly.</p>
